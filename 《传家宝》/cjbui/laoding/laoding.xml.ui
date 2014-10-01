@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\cjbui\laoding</ProjectDir>
+  <Version>1.3.0.0</Version>
+  <Resources>D:\cjbui\laoding\Resources</Resources>
+  <Name>laoding</Name>
+  <JsonFileName>laoding.json</JsonFileName>
+  <JsonFolder>D:\cjbui\laoding\Json</JsonFolder>
+  <JsonList>
+    <string>laoding_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>640</Width>
+    <Height>960</Height>
+  </CanvasSize>
+  <filePath>D:\cjbui\laoding\laoding.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>laoding0.plist</string>
+    <string>laoding1.plist</string>
+  </imageFileList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson />
+</UIProject>

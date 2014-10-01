@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\cjbui\shangcheng</ProjectDir>
+  <Version>1.3.0.0</Version>
+  <Resources>D:\cjbui\shangcheng\Resources</Resources>
+  <Name>shangcheng</Name>
+  <JsonFileName>shangcheng.json</JsonFileName>
+  <JsonFolder>D:\cjbui\shangcheng\Json</JsonFolder>
+  <JsonList>
+    <string>shangcheng_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>640</Width>
+    <Height>960</Height>
+  </CanvasSize>
+  <filePath>D:\cjbui\shangcheng\shangcheng.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>shangcheng0.plist</string>
+    <string>shangcheng1.plist</string>
+  </imageFileList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>shangcheng_1.json</CurrentUIJson>
+</UIProject>

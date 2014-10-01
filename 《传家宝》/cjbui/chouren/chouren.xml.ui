@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\cjbui\chouren</ProjectDir>
+  <Version>1.3.0.0</Version>
+  <Resources>D:\cjbui\chouren\Resources</Resources>
+  <Name>chouren</Name>
+  <JsonFileName>chouren.json</JsonFileName>
+  <JsonFolder>D:\cjbui\chouren\Json</JsonFolder>
+  <JsonList>
+    <string>chouren_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>D:\cjbui\chouren\chouren.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>chouren0.plist</string>
+  </imageFileList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>chouren_1.json</CurrentUIJson>
+</UIProject>
